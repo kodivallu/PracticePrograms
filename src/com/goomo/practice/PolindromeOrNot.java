@@ -20,7 +20,7 @@ public class PolindromeOrNot {
 		System.out.println("polindrome");
 	}
 	else{
-		System.out.println("not polindrome");
+		System.out.println("not polindrome in this");
 	}
 	
 	}
